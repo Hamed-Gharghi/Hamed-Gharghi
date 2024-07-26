@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I’m Hamed Gharghi, a student in the 5th term of 
 
 - **Programming Languages**: Python, Java, C
 - **Web Technologies**: HTML, CSS
+- **Database**: SQL
 - **Version Control**: Git
 - **Development Tools**: Telegram Bot Development, Android Applications (Java)
 
@@ -32,6 +33,7 @@ If you’d like to get in touch or discuss potential collaborations, don’t hes
 
 - **Languages**: Python, Java, C
 - **Frameworks**: Android, Web Technologies
+- **Database**: SQL
 - **Tools**: Git, IDEs (e.g., IntelliJ IDEA, Visual Studio Code)
 
 ---
@@ -54,3 +56,4 @@ If you’d like to get in touch or discuss potential collaborations, don’t hes
 ---
 
 Thank you for visiting my profile! 🚀 I’m always open to new opportunities and collaborations. Let’s connect and create something amazing together!
+
