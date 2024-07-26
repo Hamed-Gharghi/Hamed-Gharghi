@@ -37,5 +37,5 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 لطفاً نگاهی به مخازن من بیندازید و اگر تمایل به همکاری یا صحبت درباره تکنولوژی دارید، با من تماس بگیرید!
 
 **تماس با من:**
-- 📧 جیمیل: [hamedgharghi12@gmail.com](mailto:hamedgharghi12@gmail.com)
+- 📧 جیمیل: [hamedgharghi1@gmail.com](mailto:hamedgharghi1@gmail.com)
 - 📱 تلگرام: [@Hamedgh_2k04](https://t.me/Hamedgh_2k04)
