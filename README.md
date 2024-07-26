@@ -43,17 +43,17 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats -->
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamed-Gharghi&show_icons=true&theme=transparent)
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamed-Gharghi&show_icons=true&theme=vue)
 
 ## 🔥 Streak Stats
 
 <!-- GitHub Streak Stats -->
-![Hamed's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamed-Gharghi&theme=transparent)
+![Hamed's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamed-Gharghi&theme=vue)
 
 ## 🌟 Most Used Languages
 
 <!-- Most Used Languages -->
-![Hamed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Gharghi&theme=transparent&layout=compact)
+![Hamed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Gharghi&theme=vue&layout=compact)
 
 ---
 
