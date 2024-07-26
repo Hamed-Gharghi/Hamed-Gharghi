@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Hamed Gharghi!
 
-Welcome to my GitHub profile! I’m Hamed Gharghi, a computer engineering student at Yasuj University in Iran. My passion lies at the intersection of technology and creativity, where I strive to explore innovative solutions and develop impactful projects.
+Welcome to my GitHub profile! I’m Hamed Gharghi, a student in the 5th term of my Bachelor's degree in Computer Engineering at Yasuj University in Iran. My passion lies at the intersection of technology and creativity, where I strive to explore innovative solutions and develop impactful projects.
 
 ### 🛠️ Professional Skills
 
@@ -22,15 +22,11 @@ If you’d like to get in touch or discuss potential collaborations, don’t hes
 - **Gmail**: [Hamedgharghi1@gmail.com](mailto:Hamedgharghi1@gmail.com)
 - **Telegram**: [@Hamedgh_2k04](https://t.me/Hamedgh_2k04)
 
-### 🌍 Connect with Me
-
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
 ### 📚 Education
 
 - **University**: Yasuj University, Iran
-- **Degree**: Computer Engineering
+- **Degree**: Bachelor's in Computer Engineering
+- **Current Term**: 5th Term
 
 ### 🔧 Tools & Technologies
 
