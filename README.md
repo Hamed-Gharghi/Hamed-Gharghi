@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/5c47838d-2652-43f0-8f18-b0707a9be73f" />
+<img src="https://github.com/user-attachments/assets/5c47838d-2652-43f0-8f18-b0707a9be73f" />
 
 # 👋 Hello, I'm Hamed Gharghi!
 
@@ -63,6 +63,12 @@ If you’d like to get in touch or discuss potential collaborations, don’t hes
 ## 🌟 Most Used Languages
 
 ![Hamed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Gharghi&theme=algolia&layout=compact)
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor count](https://komarev.com/ghpvc/?username=Hamed-Gharghi&color=green&style=for-the-badge)
 
 ---
 
