@@ -1,50 +1,66 @@
-<img src="https://github.com/user-attachments/assets/5c47838d-2652-43f0-8f18-b0707a9be73f" />
+
+<img src="https://github.com/user-attachments/assets/5c47838d-2652-43f0-8f18-b0707a9be73f" alt="Profile Image" />
 
 # 👋 Hello, I'm Hamed Gharghi!
 
-Welcome to my GitHub profile! I’m Hamed Gharghi, a student in the 5th term of my Bachelor's degree in Computer Engineering at Yasuj University in Iran. My passion lies at the intersection of technology and creativity, where I strive to explore innovative solutions and develop impactful projects.
+Welcome to my GitHub profile! I'm Hamed Gharghi, a passionate Computer Engineering student at Yasuj University, Iran. I’m currently in my 5th term and am deeply interested in the intersection of technology and creativity. My goal is to explore innovative solutions and develop impactful projects through coding and technology.
 
 ---
 
-### 🛠️ Professional Skills
+## 🌟 About Me
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic)
-- **Web Technologies**: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
-- **Database**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=plastic)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
-- **Development Tools**: ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-2CA5E0?logo=telegram&logoColor=white&style=plastic) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
+I thrive on tackling diverse and challenging projects that push my problem-solving abilities and allow me to learn and grow. Whether it's developing applications, writing efficient code, or contributing to open-source communities, I am always eager to embrace new opportunities and enhance my skills.
 
 ---
 
-### 🌟 About Me
+## 🛠️ Professional Skills
 
-I enjoy working on diverse projects that challenge my problem-solving skills and allow me to learn new technologies. Whether it’s developing applications, writing efficient code, or contributing to open-source projects, I am always eager to take on new challenges and improve my skills.
+- **Programming Languages**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic) 
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic) 
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic)
+
+- **Web Technologies**:
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic) 
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)
+
+- **Database**:
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=plastic)
+
+- **Version Control**:
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
+
+- **Development Tools**:
+  - ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-2CA5E0?logo=telegram&logoColor=white&style=plastic) 
+  - ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
 
 ---
 
-### 📬 Contact Me
+## 🔧 Tools & Technologies
 
-If you’d like to get in touch or discuss potential collaborations, don’t hesitate to reach out:
+- **Languages**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 
-- **Gmail**: [Hamedgharghi1@gmail.com](mailto:Hamedgharghi1@gmail.com)
-- **Telegram**: [@Hamedgh_2k04](https://t.me/Hamedgh_2k04)
+- **Frameworks**:
+  - ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square) 
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+
+- **Database**:
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
+
+- **Tools**:
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
+  - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 
 ---
 
-### 📚 Education
+## 📚 Education
 
 - **University**: Yasuj University, Iran
 - **Degree**: Bachelor's in Computer Engineering
 - **Current Term**: 5th Term
-
----
-
-### 🔧 Tools & Technologies
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-- **Frameworks**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-- **Database**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 
 ---
 
@@ -73,3 +89,4 @@ If you’d like to get in touch or discuss potential collaborations, don’t hes
 ---
 
 Thank you for visiting my profile! 🚀 I’m always open to new opportunities and collaborations. Let’s connect and create something amazing together!
+
