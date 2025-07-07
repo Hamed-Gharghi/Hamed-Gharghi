@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hamed%20Gharghi&fontSize=80&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20Full%20Stack%20Developer%20|%20Security%20Enthusiast&descAlignY=55&descAlign=50&customColorList=2,3,4,5,6,7,8,9" alt="Hamed Gharghi" />
+  <img src="Header.png" alt="Hamed Gharghi Header" width="100%" />
 </div>
 
 <br>
